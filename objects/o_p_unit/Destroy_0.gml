@@ -1,1 +1,1 @@
-ds_list_clear(global.units)
+ds_list_delete(global.units,ds_list_find_index(global.units,id))

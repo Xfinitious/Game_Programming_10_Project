@@ -66,6 +66,11 @@ switch(combatPhase) {
 	case phase.wait:
 		if (global.selectedUnit.team > 0 && !aiDone) {
 			AIChoose();
+			event_user(1);
+			layer_set_visible(targetUI,false);
+			instance_deactivate_layer(targetUI);
+			layer_set_visible(baseUI,false);
+			instance_deactivate_layer(baseUI);
 		}
 		
 		if (selectedFinished == true) {

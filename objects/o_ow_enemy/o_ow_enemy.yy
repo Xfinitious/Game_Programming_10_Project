@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_Targeting",
-    "path": "sprites/s_Targeting/s_Targeting.yy",
+    "name": "s_Button",
+    "path": "sprites/s_Button/s_Button.yy",
   },
   "solid": false,
   "visible": true,

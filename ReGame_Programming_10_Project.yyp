@@ -6,6 +6,7 @@
     {"id":{"name":"ts_Grass","path":"tilesets/ts_Grass/ts_Grass.yy",},"order":1,},
     {"id":{"name":"o_DebugButton","path":"objects/o_DebugButton/o_DebugButton.yy",},"order":0,},
     {"id":{"name":"o_P_Button","path":"objects/o_P_Button/o_P_Button.yy",},"order":4,},
+    {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},"order":14,},
     {"id":{"name":"s_Player_Hurt","path":"sprites/s_Player_Hurt/s_Player_Hurt.yy",},"order":3,},
     {"id":{"name":"o_Manager","path":"objects/o_Manager/o_Manager.yy",},"order":0,},
     {"id":{"name":"bgm_Battle_1","path":"sounds/bgm_Battle_1/bgm_Battle_1.yy",},"order":0,},
